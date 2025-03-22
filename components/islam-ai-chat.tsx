@@ -75,7 +75,7 @@ export function IslamAIChat() {
 
       // Use Google's Generative AI API with the updated endpoint and model
       const response = await fetch(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAfKQN2Jb1YVEWfPt9IxweKrHF928rL59c",
+        "Enter_ur API_Key",
         {
           method: "POST",
           headers: {
