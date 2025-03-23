@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 <p align="center">
-  <img src="./public/app-logo.png" alt="Quran Player Logo" width="150" height="150" style="border-radius: 20px;"/>
+<img src="./public/app-logo.png" alt="Quran Player Logo" width="150" height="150" style="border-radius: 20px;"/>
 </p>
 
 > A comprehensive digital platform for listening to the Holy Quran with all 114 surahs, complemented by a rich set of Islamic resources. Experience high-quality recitations, Islamic knowledge, prayer guidance, and more, all within an elegant and intuitive user interface.
@@ -42,11 +42,11 @@
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/11FaZe11/Qurani-v3.git
+    git clone [https://github.com/11FaZe11/Qurani-v3.git](https://github.com/11FaZe11/Qurani-v3.git)
     ```
-2.  **Open the folder directory **:
+2.  **Open the folder directory**:
     ```bash
-    cd quran-player
+    cd Qurani-v3
     ```
 
 3.  **Install Dependencies**:
@@ -82,3 +82,6 @@
     yarn start
     ```
 
+## 🌐 Live Demo
+
+Visit the website: [https://v0-quran-app-hekuoe.vercel.app/](https://v0-quran-app-hekuoe.vercel.app/)
