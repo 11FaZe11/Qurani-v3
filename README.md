@@ -85,3 +85,7 @@
 ## 🌐 Live Demo
 
 Visit the website: [https://v0-quran-app-hekuoe.vercel.app/](https://v0-quran-app-hekuoe.vercel.app/)
+
+## 📱 Android Download
+
+Download the Android App: [https://www.webintoapp.com/store/663371](https://www.webintoapp.com/store/663371)
