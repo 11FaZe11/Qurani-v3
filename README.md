@@ -42,11 +42,14 @@
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/quran-player.git](https://github.com/your-username/quran-player.git)
-    cd quran-player
+    git clone [[https://github.com/your-username/quran-player.git](https://github.com/11FaZe11/Qurani-v3.git)]
+    ```
+2.  **Open the folder directory **:
+    ```bash
+      cd quran-player
     ```
 
-2.  **Install Dependencies**:
+3.  **Install Dependencies**:
     Using npm:
     ```bash
     npm install
@@ -56,7 +59,7 @@
     yarn install
     ```
 
-3.  **Run the Development Server**:
+4.  **Run the Development Server**:
     Using npm:
     ```bash
     npm run dev
@@ -67,7 +70,7 @@
     ```
     Open your browser and navigate to `http://localhost:3000` to view the application.
 
-4.  **Build for Production**:
+5.  **Build for Production**:
     Using npm:
     ```bash
     npm run build
