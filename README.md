@@ -42,7 +42,7 @@
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/11FaZe11/Qurani-v3.git]
+    git clone https://github.com/11FaZe11/Qurani-v3.git
     ```
 2.  **Open the folder directory**:
     ```bash
