@@ -42,11 +42,11 @@
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [[https://github.com/your-username/quran-player.git](https://github.com/11FaZe11/Qurani-v3.git)]
+    git clone https://github.com/11FaZe11/Qurani-v3.git
     ```
 2.  **Open the folder directory **:
     ```bash
-      cd quran-player
+    cd quran-player
     ```
 
 3.  **Install Dependencies**:
